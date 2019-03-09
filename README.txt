@@ -1,4 +1,6 @@
-			Si vous avez un problème, rejoignez mon serveur : https://discord.gg/huQFvTw
+			Si vous avez un problème :
+			rejoignez mon serveur : https://discord.gg/huQFvTw
+			Ou sur twitter : https://twitter.com/Baronnet_W3B
 
 
 
@@ -41,4 +43,6 @@ Serveurs     : 7
 			
 			
 			
-			Si vous avez un problème, rejoignez mon serveur : https://discord.gg/huQFvTw
+			Si vous avez un problème :
+			rejoignez mon serveur : https://discord.gg/huQFvTw
+			Ou sur twitter : https://twitter.com/Baronnet_W3B
