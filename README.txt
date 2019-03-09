@@ -14,12 +14,14 @@ Pour utiliser le bot de raid, il faut completer les parametres :
 		- Remplacez <<ID Du Channel>> par l'ID du channel ou vous voulez que le bot envoie les messages (invitez le bot au préalable).
 		- Remplacez <<Votre Pseudo>> par le pseudo que vous voulez afficher pendant vos raid.
 		- Remplacez <<botstatus>> par le status que vous voulez que le bot est.
-		
-	3. Ouvrez le start.bat
 	
-	4. Si tout ce passe bien, vous devriez voir quelque chose de similaire : 
+	3. Lancer un terminal (A.K.A cmd sous windows) dans le dossier du bot et taper "npm install discord.js"
 	
-	----------------------------------------
+	4. Ouvrez le start.bat
+	
+	5. Si tout ce passe bien, vous devriez voir quelque chose de similaire : 
+	
+----------------------------------------
 |  Logs.  |
 ----------------------------------------
 Bot Infos :
