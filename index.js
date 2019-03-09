@@ -13,8 +13,7 @@
 
 
                                                                                                                                                                              */
-const ytdl = require('ytdl-core');
-const streamOptions = { seek: 0, volume: 1 };
+
 const Discord = require("discord.js");
 const { prefix, token, channelog, raidauthor, botstatus } = require('./config.json');
 
