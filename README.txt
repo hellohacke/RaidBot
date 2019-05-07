@@ -45,4 +45,4 @@ Serveurs     : 7
 			
 			Si vous avez un problème :
 			rejoignez mon serveur : https://discord.gg/huQFvTw
-			Ou sur twitter : https://twitter.com/Baronnet_W3B
+			Ou sur twitter : https://twitter.com/Baronnet_Noir
