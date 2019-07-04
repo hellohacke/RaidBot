@@ -1,6 +1,6 @@
 			Si vous avez un problème :
-			rejoignez mon serveur : https://discord.gg/huQFvTw
-			Ou sur twitter : https://twitter.com/Baronnet_W3B
+			rejoignez mon serveur : https://discord.gg/WkJaGkT
+			Ou sur twitter : https://twitter.com/Baronnet_Noir
 
 
 
